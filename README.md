@@ -11,3 +11,5 @@ Also, tried my hands with plotly for the first time! Found it to be quite intera
 
 Libraries used:
 pandas, matplotlib, plotly, seaborn
+
+The plotply plots are not rendering on Github, I am looking for a solution.
