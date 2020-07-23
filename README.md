@@ -13,4 +13,5 @@ Also, tried my hands with plotly for the first time! Found it to be quite intera
 Libraries used:
 pandas, matplotlib, plotly, seaborn
 
-The plotply plots are not rendering on Github, I am looking for a solution.
+p.s. The plotply plots are rendered as png on Github, so they lose the interactivity associated with them. 
+There's no other solution I have been able to find for this issue.
