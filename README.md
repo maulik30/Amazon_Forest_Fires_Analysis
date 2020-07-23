@@ -7,6 +7,7 @@ Brazil has the largest rainforest on the planet that is the Amazon rainforest.
 
 Inspiration:
 Seeing the forest fires in the recent summer months in my home state in Uttarakhand, India, I decided to analyse the forest fires data of Brazil and the regions where they were concentrated.
+
 Also, tried my hands with plotly for the first time! Found it to be quite interactive and more detailed oriented than matplotlib
 
 Libraries used:
